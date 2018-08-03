@@ -1,0 +1,28 @@
+{
+  "name": "norton-rating",
+  "version": "1.0.0",
+  "description": "Get the safety rating of a site from Norton Safe Web",
+  "homepage": "https://github.com/adamisntdead/norton-rating",
+  "author": {
+    "name": "Adam Kelly",
+    "email": "adamkelly2201@gmail.com",
+    "url": "https://adamisntdead.com"
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "keywords": [
+    "norton",
+    "rating",
+    "safe",
+    "web",
+    "site",
+    "check"
+  ],
+  "repository": "adamisntdead/norton-rating",
+  "license": "MIT",
+  "dependencies": {
+    "x-ray": "^2.3.3"
+  }
+}
